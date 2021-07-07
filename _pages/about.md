@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi! Thanks for stopping by."
+title: "Hi there! My name is Tina."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
