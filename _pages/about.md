@@ -13,7 +13,11 @@ I am pursuing a Ph.D. in [Decision and Risk Analysis](https://dara.stanford.edu/
 My previous research interests include decision analysis in social entrepreneurship and modeling matching & pricing with friction between investors and entrepreneurs. My full-time professional work experiences before graduate school were in pension consulting and personal property & casualty insurance lines. 
 
 I hold an M.S. in Management Science & Engineering (technical and engineering management) from Stanford University and B.A.s in Statistics and Economics from University of California - Berkeley. Actuarial Exams I've passed:
+
 Exam 1/Probability;
+
 Exam 2/Financial Mathematics;
+
 Exam LC/Models for Life Contingencies;
+
 Exam 4/Construction and Evaluation of Actuarial Models
