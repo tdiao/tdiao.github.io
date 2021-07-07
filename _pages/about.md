@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am pursuing a PhD studying Decision and Risk Analysis within [Management Science & Engineering](https://msande.stanford.edu/) and a PhD Minor in [Computer Science](https://cs.stanford.edu/) at Stanford University. My research develops the principled ways to apply machine learning and/or artificial intelligence in domains of medicine and environmental sciences. I believe in decision-driven data acquisition and analyses, not the other way round. 
+I am pursuing a PhD in Decision and Risk Analysis within [Management Science & Engineering](https://msande.stanford.edu/) and a PhD Minor in [Computer Science](https://cs.stanford.edu/) at Stanford University. My research develops the principled ways to apply machine learning and/or artificial intelligence in domains of medicine and environmental sciences. I believe in decision-driven data acquisition and analyses, not the other way round. 
 
 My previous research interests include decision analysis in social entrepreneurship and modeling matching & pricing with friction between investors and entrepreneurs. My full-time professional work experiences before graduate school were in pension consulting and personal property & casualty insurance lines. I hold an M.S. in management science and engineering (technical and engineering management) from Stanford University and B.A.s in statistics and economics from [University of California - Berkeley](https://www.berkeley.edu/). 
