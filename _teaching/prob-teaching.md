@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/prob-courses
 venue: "Stanford University, Department of Management Science & Engineering"
-date: 2018
+date: 2018-2019
 location: "Stanford, USA"
 ---
 
