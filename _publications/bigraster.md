@@ -6,7 +6,7 @@ excerpt: 'Spatial data is traditionally represented using two data models, raste
 date: 2021-04-01
 venue: 'IEEE 37th International Conference on Data Engineering (ICDE)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9458857'
-# citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Singla, S., Eldawy, A., Diao, T., Mukhopadhyay, A., & Scudiero, E. (2021). &quot;Experimental Study of Big Raster and Vector Database Systems&quot; <i>IEEE</i>. 2021 IEEE 37th International Conference on Data Engineering (ICDE) (pp. 2243-2248).'
 # ---
 # This paper is about the number 2. The number 3 is left for future work.
 
