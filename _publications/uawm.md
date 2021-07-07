@@ -6,7 +6,7 @@ excerpt: 'Recent wildfires in the United States have resulted in loss of life an
 date: 2020-10-15
 venue: 'AI for Social Good – AAAI Fall Symposium'
 paperurl: 'https://arxiv.org/abs/2010.07915'
-# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Diao, T., Singla, S., Mukhopadhyay, A., Eldawy, A., Shachter, R., & Kochenderfer, M. (2020). &quot;Uncertainty Aware Wildfire Management&quot; <i>arXiv preprint arXiv:2010.07915</i>.'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work.
 
