@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tina Diao"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Tina Diao"
 description              : &description "personal description"
