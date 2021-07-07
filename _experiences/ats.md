@@ -1,7 +1,7 @@
 ---
 title: "Consultant (part-time)"
 collection: experiences
-type: "Experience"
+type: "experience"
 permalink: /experiences/ats
 venue: "Aerospace Technical Service"
 date: 2029-02-01
