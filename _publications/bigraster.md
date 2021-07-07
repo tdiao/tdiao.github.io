@@ -2,10 +2,10 @@
 title: "Experimental Study of Big Raster and Vector Database Systems"
 collection: publications
 permalink: /publication/bigraster
-# excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+excerpt: 'Spatial data is traditionally represented using two data models, raster and vector. Raster data refers to satellite imagery while vector data includes GPS data, Tweets, and regional boundaries. While there are many real-world applications that need to process both raster and vector data concurrently, state-of-the-art systems are limited to processing one of these two representations while converting the other one which limits their scalability. This paper draws the attention of the research community to the research problems that emerge from the concurrent processing of raster and vector data. It describes three real-world applications and explains their computation and access patterns for raster and vector data. Additionally, it runs an extensive experimental evaluation using state-of-the-art big spatial data systems with raster data of up-to a trillion pixels, and vector data with up-to hundreds of millions of edges. The results show that while most systems can analyze raster and vector concurrently, but they have limited scalability for large-scale data.'
+date: 2021-04-01
+venue: '2021 IEEE 37th International Conference on Data Engineering (ICDE)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9458857'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 # ---
 # This paper is about the number 2. The number 3 is left for future work.
