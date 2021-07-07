@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate and graduate courses"
 permalink: /teaching/da-courses
 venue: "Stanford University, Department of Management Science & Engineering"
-date: 2016 - present
+date: 2016-04-01
 location: "Stanford, USA"
 ---
 
