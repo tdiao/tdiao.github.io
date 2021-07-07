@@ -1,7 +1,7 @@
 ---
 title: "Probability Courses (TA)"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate and graduate courses"
 permalink: /teaching/prob-courses
 venue: "Stanford University, Department of Management Science & Engineering"
 date: 2018-09-01
