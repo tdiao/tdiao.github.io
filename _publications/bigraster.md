@@ -8,8 +8,3 @@ venue: 'IEEE 37th International Conference on Data Engineering (ICDE)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9458857'
 citation: 'Singla, S., Eldawy, A., Diao, T., Mukhopadhyay, A., & Scudiero, E. (2021). &quot;Experimental Study of Big Raster and Vector Database Systems&quot; <i>2021 IEEE 37th International Conference on Data Engineering (ICDE) (pp. 2243-2248)</i>.'
 ---
-<!-- # This paper is about the number 2. The number 3 is left for future work.
-
-# [Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-# Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2). -->

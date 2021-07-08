@@ -8,8 +8,3 @@ venue: 'NeurIPS 2020 Workshops - AI for Earth Sciences'
 paperurl: 'https://ai4earthscience.github.io/neurips-2020-workshop/papers/ai4earth_neurips_2020_43.pdf'
 citation: 'Diao, T., Singla, S., Mukhopadhyay, A., Eldawy, A., Shachter, R., & Kochenderfer, M. (2020). &quot;WildfireDB: A Spatio-Temporal Dataset Combining Wildfire Occurrence with Relevant Covariates&quot;.'
 ---
-<!-- This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](<i>https://ai4earthscience.github.io/neurips-2020-workshop/papers/ai4earth_neurips_2020_43.pdf</i>) -->
-
-<!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
