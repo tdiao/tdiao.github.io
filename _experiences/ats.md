@@ -1,11 +1,20 @@
 ---
 title: "Consultant (part-time)"
 collection: experiences
-type: "experiences"
+type: "Undergraduate course"
 permalink: /experiences/ats
-venue: "Aerospace Technical Service"
-date: 2029-02-01
-location: "Palo Alto, California"
+venue: "Aerospace Technical Services"
+date: 2020-02-01
+location: "Palo Alto, CA"
 ---
 
-<!-- This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown! -->
+<!-- This is a description of a teaching experience. You can use markdown like any other post.
+
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+====== -->
