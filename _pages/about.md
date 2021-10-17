@@ -16,4 +16,5 @@ My previous research interests include decision analysis in social entrepreneurs
 * Exam LC/Models for Life Contingencies
 * Exam 4/Construction and Evaluation of Actuarial Models
 
+
 I hold an M.S. in Management Science & Engineering (technical and engineering management) from Stanford University and B.A.s in Statistics and Economics from University of California - Berkeley. 
