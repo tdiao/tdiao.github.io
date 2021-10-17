@@ -12,4 +12,4 @@ I am pursuing a Ph.D. in [Decision and Risk Analysis](https://dara.stanford.edu/
 
 My previous research interests include decision analysis in social entrepreneurship and modeling matching & pricing with friction between investors and entrepreneurs. Before graduate school, my full-time professional experiences were in pension consulting and personal property & casualty insurance lines. 
 
-I hold an M.S. in Management Science & Engineering (technical and engineering management) from Stanford University and B.A.s in Statistics and Economics from University of California - Berkeley. 
+I hold an M.S. in Management Science & Engineering (technical and engineering management) from Stanford University and B.A.s in Statistics and Economics from University of California - Berkeley. I passed four [Society of Actuaries](https://www.soa.org/) examinations. 
