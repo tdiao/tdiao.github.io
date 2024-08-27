@@ -1,5 +1,5 @@
 ---
-title: "Management Science & Engineering courses"
+title: "Management Science & Engineering (MS&E) courses"
 excerpt: ""
 collection: projects
 ---

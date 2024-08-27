@@ -1,5 +1,5 @@
 ---
-title: "Computer Science courses"
+title: "Computer Science (CS) courses"
 excerpt: ""
 collection: projects
 ---
