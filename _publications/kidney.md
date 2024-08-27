@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Kidney Transplant Candidates Should Be More Aggressive In Accepting Organ Offers"
 collection: publications
 permalink: /publication/kidney
@@ -8,4 +8,4 @@ venue: 'American Journal of Transplantation'
 paperurl: ''
 citation: 'Diao, T., Melcher, M., Shachter, R. (2024). Kidney Transplant Candidates Should Be More Aggressive
 In Accepting Organ Offers. American Journal of Transplantation. (Under Review.)'
----
+--- -->
