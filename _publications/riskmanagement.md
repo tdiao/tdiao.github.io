@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/riskmanagement
 # excerpt: '**Abstract:** Modern enterprise risk management (ERM) for complex engineered systems is ultimately concerned with making high-quality resource allocation decisions at the organizational level with the goal of minimizing the risk of these systems. Effective ERM is challenging in several ways: 1) it necessitates the continuous monitoring and assessment of a comprehensive set of risks; 2) it requires a cogent measure of value and objectives; and 3) it requires a normative decision framework that is grounded in quantitative measures, rather than heuristics. In this paper, we describe a principled approach for ERM to address these pressing challenges in complex systems across numerous industries but with a focus on energy systems. We begin by outlining and explaining the methods comprising the Risk Management Toolkit: a set of rigorously tested quantitative methods with a proven track record for bolstering the efficacy of modern ERM programs. We then outline a set of organizational characteristics that we believe play instrumental roles in ensuring effective ERM across an organization. Finally, we use an illustrative example system from the energy sector to perform an economic analysis of the organizational value of an effective ERM team. Ultimately, our analysis underscores the significant value and importance of employing thoughtful and rigorous methods of risk management, and our results generalize naturally to other industries with similarly consequential systems.'
 date: 2022-06-26
-venue: 'https://www.iapsam.org/PSAM16/papers/RI64-PSAM16.pdf'
-paperurl: ''
+venue: 'Probabilistic Safety Assessment and Management (PSAM)'
+paperurl: 'https://www.iapsam.org/PSAM16/papers/RI64-PSAM16.pdf'
 citation: 'Kim, R., Diao, T., Coots, M. (2021). Perspectives on Managing Risks in Energy Systems. the 16th Probabilistic Safety Assessment & Management Conference (2022)'
 ---
