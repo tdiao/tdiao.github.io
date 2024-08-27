@@ -2,7 +2,7 @@
 title: "WildfireDB: A Spatio-Temporal Dataset Combining Wildfire Occurrence with Relevant Covariates"
 collection: publications
 permalink: /publication/wildfireDB
-excerpt: '**Abstract:** Modeling fire spread is critical in fire risk management. Creating data-driven models to forecast spread remains challenging due to the lack of comprehensive data sources that relate fires with relevant covariates. We present the first comprehensive dataset that relates historical fire data with relevant covariates extracted from satellite imagery. This open-source dataset contains over 2 million data points. We discuss an algorithmic approach based on large-scale raster and vector analysis that can be used to create similar datasets.'
+# excerpt: '**Abstract:** Modeling fire spread is critical in fire risk management. Creating data-driven models to forecast spread remains challenging due to the lack of comprehensive data sources that relate fires with relevant covariates. We present the first comprehensive dataset that relates historical fire data with relevant covariates extracted from satellite imagery. This open-source dataset contains over 2 million data points. We discuss an algorithmic approach based on large-scale raster and vector analysis that can be used to create similar datasets.'
 date: 2020-12-01
 venue: 'NeurIPS 2020 Workshops - AI for Earth Sciences'
 paperurl: 'https://ai4earthscience.github.io/neurips-2020-workshop/papers/ai4earth_neurips_2020_43.pdf'

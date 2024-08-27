@@ -1,0 +1,10 @@
+---
+title: "Comparison of machine learning approaches to improve diagnosis of optic neuropathy using photopic negative response measured using a handheld device"
+collection: publications
+permalink: /publication/ergoptic
+# excerpt: '**Abstract:** The photopic negative response of the full-field electroretinogram (ERG) is reduced in optic neuropathies. However, technical requirements for measurement and poor classification performance have limited widespread clinical application. Recent advances in hardware facilitate efficient clinic-based recording of the full-field ERG. Time series classification, a machine learning approach, may improve classification by using the entire ERG waveform as the input. In this study, full-field ERGs were recorded in 217 eyes (109 optic neuropathy and 108 controls) of 155 subjects. User-defined ERG features including photopic negative response were reduced in optic neuropathy eyes (p < 0.0005, generalized estimating equation models accounting for age). However, classification of optic neuropathy based on user-defined features was only fair with receiver operating characteristic area under the curve ranging between 0.62 and 0.68 and F1 score at the optimal cutoff ranging between 0.30 and 0.33. In comparison, machine learning classifiers using a variety of time series analysis approaches had F1 scores of 0.58–0.76 on a test data set. Time series classifications are promising for improving optic neuropathy diagnosis using ERG waveforms. Larger sample sizes will be important to refine the models.'
+date: 2021-12-03
+venue: 'Frontiers in Medicine'
+paperurl: 'https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2021.771713/full'
+citation: 'Diao, T., Kushzad, F., Patel, M. D., Bindiganavale, M. P., Wasi, M., Kochenderfer, M. J., & Moss, H. E. (2021). Comparison of machine learning approaches to improve diagnosis of optic neuropathy using photopic negative response measured using a handheld device. Frontiers in Medicine, 8, 771713.'
+---
